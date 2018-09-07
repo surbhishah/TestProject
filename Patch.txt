@@ -1,2 +1,4 @@
 This is a patch to fix a bug in the version 1 of the app which is the master right now
 Heelloooo
+
+SecretsTests: AKIA1234123412341234
